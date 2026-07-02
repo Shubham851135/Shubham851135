@@ -106,4 +106,4 @@
 
 ---
 
-⭐ **Feel free to explore my repositories and leave a star if you find something useful!** ⭐
+⭐ ***Feel free to explore my repositories and leave a star if you find something useful!*** ⭐
